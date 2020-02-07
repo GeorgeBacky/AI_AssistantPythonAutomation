@@ -1,7 +1,6 @@
 # AI_AssistantPythonAutomation
 
-<b>I made this program because used to see IronMan and i decide to make an assistant like him
-I made a simple AI.<br>I think it's a very good option if you want to start to make yours and if you want you can edit my sourcecode</b>
+<b>I made a simple AI.<br>I think it's a very good option if you want to start to make yours and if you want you can edit my sourcecode</b>
 
 <b>I USED THIS LIBS SO YOU NEED TO INSTALL IT!</b><br>
 <br>
