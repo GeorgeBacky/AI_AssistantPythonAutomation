@@ -29,4 +29,6 @@ SITE : https://www.wolframalpha.com/ <br>
 Register and go to MY APPS  and click to GET an APPID name as you want!
 
 
-<h4>YOU MUST EDIT CONFIG FILE TO TEST IT REPLACE THE (example@gmail.com and password) AND IN AI_ASSISTANT FILE MAKE SURE YOU REPLACED THE APP_ID AND THE C:/Users/Example/Desktop/Chromedriver.exe/ </h4>
+<h4>YOU MUST EDIT CONFIG FILE TO TEST IT REPLACE THE (example@gmail.com and password).<BR>YOU MUST EDIT AI_ASSISTANT FILE MAKE SURE YOU REPLACED THE APP_ID AND THE C:/Users/Example/Desktop/Chromedriver.exe/ </h4></br>
+
+<B>TO INSTALL CHROMEDRIVER:</B> https://chromedriver.chromium.org/downloads 
