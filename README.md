@@ -22,5 +22,5 @@ pip install wikipedia
 pip install wolframalpha
 
 IMPORTANT!!! YOU MUST CREATE AN APP_ID! 
-SITE : https://www.wolframalpha.com/
+SITE : https://www.wolframalpha.com/ <br>
 Register and go to MY APPS  and click to GET an APPID name as you want!
