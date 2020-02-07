@@ -1,5 +1,5 @@
 # AI_AssistantPythonAutomation
-
+<b>I used to see Sci-Fi Movies and i decided to make this app.I took the idea from IronMan</b>
 <b>I made a simple AI.<br>I think it's a very good option if you want to start to make yours and if you want you can edit my sourcecode</b>
 
 <b>I USED THIS LIBS SO YOU NEED TO INSTALL IT!</b><br>
