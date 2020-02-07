@@ -2,7 +2,7 @@
 AI_Assistant With Python3
 
 
-<font color="black">I USED THIS LIBS SO YOU NEED TO INSTALL IT!</font>
+<b>I USED THIS LIBS SO YOU NEED TO INSTALL IT!</b>
 1. Selenium
 pip install selenium
 
