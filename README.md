@@ -2,32 +2,12 @@
 <b>I used to see Sci-Fi Movies and i decided to make this app.I took the idea from IronMan</b><br>
 <b>I made a simple AI.<br>I think it's a very good option if you want to start to make yours and if you want you can edit my sourcecode</b>
 
-<b>I USED THIS LIBS SO YOU NEED TO INSTALL IT!</b><br>
+<b>UPDATED VERSION!</b><br>
 <br>
-1.<b>Selenium:</b>
-pip install selenium
+<B>YOU DON'T NEED TO INSTALL SOMETHING EXPECT PYTHON3.7.X<B><BR>
+First of all you need to run PythonLibAutoInstaller.bat <br>
+this program will be install you all libs you need<br>
+1 More thing 
+<h4>YOU MUST EDIT CONFIG FILE TO TEST IT REPLACE THE (example@gmail.com and password).<BR>YOU MUST EDIT AI_ASSISTANT FILE C:/Users/Example/Desktop/Chromedriver.exe/ </h4></br>
 
-2.<b>Pyttsx3:</b>
-pip install pyttsx3
-
-3.<b>SpeechRecognition:</b>
-pip install SpeechRecognition
-
-4.<b>PyAudio:</b>
-pip install PyAudio
-
-5.<b>Wikipedia:</b>
-pip install wikipedia
-
-6.<b>Worframaplha:</b>
-pip install wolframalpha
-
-<b><h2>IMPORTANT!!!<br></b></h2>
-YOU MUST CREATE AN APP_ID! 
-SITE : https://www.wolframalpha.com/ <br>
-Register and go to MY APPS  and click to GET an APPID name as you want!
-
-
-<h4>YOU MUST EDIT CONFIG FILE TO TEST IT REPLACE THE (example@gmail.com and password).<BR>YOU MUST EDIT AI_ASSISTANT FILE MAKE SURE YOU REPLACED THE APP_ID AND THE C:/Users/Example/Desktop/Chromedriver.exe/ </h4></br>
-
-<B>TO INSTALL CHROMEDRIVER:</B> https://chromedriver.chromium.org/downloads 
+<B>TO DOWNLOAD CHROMEDRIVER:</B> https://chromedriver.chromium.org/downloads 
