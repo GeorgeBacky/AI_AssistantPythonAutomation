@@ -4,10 +4,9 @@
 
 <b>UPDATED VERSION!</b><br>
 <br>
-<B>YOU DON'T NEED TO INSTALL SOMETHING EXPECT PYTHON3.7.X<B><BR>
+<B>YOU MUST HAVE PYTHON3.7.X ON YOUR COMPUTER (I prefer 3.7.4)<B><BR>
 First of all you need to run PythonLibAutoInstaller.bat <br>
 this program will be install you all libs you need<br>
-1 More thing 
-<h4>YOU MUST EDIT CONFIG FILE TO TEST IT REPLACE THE (example@gmail.com and password).<BR>YOU MUST EDIT AI_ASSISTANT FILE C:/Users/Example/Desktop/Chromedriver.exe/ </h4></br>
+<h4>YOU MUST EDIT cofnig FILE TO TEST IT REPLACE THE (example@gmail.com and password).<BR>YOU MUST EDIT AI_ASSISTANT FILE C:/Users/Example/Desktop/Chromedriver.exe/ AT 67 LINE </h4></br>
 
 <B>TO DOWNLOAD CHROMEDRIVER:</B> https://chromedriver.chromium.org/downloads 
