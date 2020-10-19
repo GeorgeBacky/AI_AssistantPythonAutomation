@@ -152,7 +152,7 @@ if __name__ == '__main__':
 
         elif 'nothing' in query or 'abort' in query or 'stop' in query:
             speak('okay')
-            speak('Bye Sir, have a good day.')
+            speak('Bye Sir, have a good day..')
             sys.exit()
         elif 'what can you do?' in query:
             speak('I am programmed to make your life more simple..I can automatically sign in your account..e.g Facebook Account or Netflix Account')
@@ -161,7 +161,7 @@ if __name__ == '__main__':
             speak('Hello sir.')
 
         elif 'bye' in query:
-            speak('Bye sir, have a good day.')
+            speak('Bye sir, have a good day..')
             sys.exit()
                                     
         elif 'play music' in query:
@@ -180,13 +180,13 @@ if __name__ == '__main__':
                 try:
                     res = client.query(query)
                     results = next(res.results).text
-                    speak('WOLFRAM-ALPHA says - ')
-                    speak('Got it.')
+                    speak('WOLFRAM-ALPHA says -')
+                    speak('Got it!')
                     speak(results)
                     
                 except:
                     results = wikipedia.summary(query, sentences=2)
-                    speak('Got it.')
+                    speak('Got it!')
                     speak('WIKIPEDIA says - ')
                     speak(results)
         
